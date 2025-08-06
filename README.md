@@ -264,15 +264,15 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 👤 Author
 
-Your Name
+Dera Egbumokei
 
 
 
-LinkedIn: \[Your LinkedIn Profile]
+LinkedIn: www.linkedin.com/in/dera-egbumokei-6a1689340
 
-Email: your.email@example.com
+Email: degbumokie@gmail.com
 
-Portfolio: \[Your Portfolio Website]
+
 
 
 
